@@ -1,11 +1,9 @@
 {
-  "name": "indecision-app",
-  "version": "1.0.0",
-  "main": "index.js",
-  "author": "Carlos Martinez <itscarlosisaac@gmail.com>",
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "author": "Carlos I. Martinez <itscarlosisaac@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "serve": "live-server public/",
     "build": "webpack",
     "dev-server": "webpack-dev-server"
   },
@@ -17,7 +15,6 @@
     "babel-preset-env": "1.5.2",
     "babel-preset-react": "6.24.1",
     "css-loader": "0.28.4",
-    "live-server": "^1.2.0",
     "node-sass": "4.5.3",
     "normalize.css": "7.0.0",
     "react": "^16.0.0",

@@ -9,36 +9,34 @@ Based on React, React Router, Babel for rapid application development.
  - It requires react and react-dom v16.0.0
 
 ### Install
-    First git clone the repo to your local machine.
-    
-    `$ cd your-project-name`
-    `$ yarn`
+First git clone the repo to your local machine.
+
+`$ cd your-project-name`
+`$ yarn`
 
 ### Scripts
-    Build - `yarn run build`
-    DevServer - `yarn run dev-server`
+Build - `yarn run build`
+DevServer - `yarn run dev-server`
 
 ### Dependencies
-    Babel
-    Babel Transform
-    Babel React
-    CSS Loader
-    Node Sass
-    Normalize CSS
-    React
-    ReactDOM
-    React Router
-    Style Loader
-    Yarn
-    Webpack
-    Webpack Dev Server
+- Babel
+- Babel Transform
+- Babel React
+- CSS Loader
+- Node Sass
+- Normalize CSS
+- React
+- ReactDOM
+- React Router
+- Style Loader
+- Webpack
+- Webpack Dev Server
+- Yarn
 
-#### Summary
-    This app has 7 build in locations of Museums around New York. With a filter feature to be able to filter them and just see the desired ones.
+### Summary
 
 #### Changelog
-    v.0.0.0.1
-        - Created 02/11/2017
+    v.0.0.0.1 - Created 02/11/2017
 
 ### Contact Information
 ---
